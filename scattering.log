@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.6)  15 JUN 2017 17:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.6)  3 JUL 2017 18:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -125,24 +125,24 @@ LaTeX Font Info:    ... okay on input line 34.
 \openout3 = `scatteringNotes.bib'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 85.
+(Font)              <12> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 85.
+(Font)              <8> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 85.
+(Font)              <6> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 85.
+(Font)              <5> on input line 86.
  [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 No file scattering.bbl.
 [2] (./scattering.aux) ) 
 Here is how much of TeX's memory you used:
- 2223 strings out of 493014
- 28459 string characters out of 6133352
- 91424 words of memory out of 5000000
- 5815 multiletter control sequences out of 15000+600000
- 8282 words of font info for 29 fonts, out of 8000000 for 9000
+ 2225 strings out of 493014
+ 28481 string characters out of 6133352
+ 94424 words of memory out of 5000000
+ 5817 multiletter control sequences out of 15000+600000
+ 8589 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,6n,30p,192b,182s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,6n,30p,650b,182s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
@@ -150,7 +150,7 @@ sfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmti12.pfb>
-Output written on scattering.pdf (2 pages, 64007 bytes).
+Output written on scattering.pdf (2 pages, 78543 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
